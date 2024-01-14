@@ -4,7 +4,7 @@ import ButtonSection from './ButtonSection'
 const ButtonList = () => {
   const buttonItems = [
     { label: 'DOWNLOAD', icon: 'fab fa-apple', class: 'downloadapple'},
-    { label: 'DOWNLOAD 2', icon: 'fab fa-google-play', class: 'downloadandroid'},
+    { label: 'DOWNLOAD', icon: 'fab fa-google-play', class: 'downloadandroid'},
 
   ];
 
