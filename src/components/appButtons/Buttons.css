@@ -1,0 +1,33 @@
+#buttoncontainer {
+    margin: 0 auto 60px auto;
+    display: table;
+}
+
+#buttoncontainer button:nth-last-child(1) {
+    margin-left: 15px;
+}
+
+.efect-opacity:hover {
+    opacity: 1;
+}
+
+.downloadapple {
+    padding: 10px 50px;
+    background-color: #FF4B63;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    border: 0;
+}
+
+.downloadandroid {
+    padding: 10px 50px;
+    background-color: #FF4B63;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    border: 0;
+}
+
+button:hover{
+    background-color: plum;
+    color: white;
+}

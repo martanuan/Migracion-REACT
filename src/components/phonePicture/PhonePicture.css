@@ -1,0 +1,15 @@
+.iphoneheader {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.efect-opacity {
+    height: auto;
+    opacity: 0.25;
+    transition: opacity 0.75s ease-in-out;
+}
+
+.efect-opacity:hover {
+    opacity: 1;
+}
